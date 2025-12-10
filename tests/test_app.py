@@ -6,4 +6,4 @@ def test_greet_name():
 
 
 def test_greet_empty():
-    assert greet("") == "Hola, GitHub!"
+    assert greet("") == "Hola, Curso de Git!"
